@@ -5,4 +5,5 @@ read a
 echo "Value of b"
 read b
 echo "Hello value of a is $a and value of b is $b"
-echo "welcome to home"
+echo "this is a shellscripts"
+echo "I learning first script"
