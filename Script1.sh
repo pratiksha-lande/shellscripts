@@ -4,5 +4,4 @@ echo "Hello All, Welcome to AWS/Devops Class"
 echo "Hello, How are you?"
 echo "Welcome to Young Minds"
 echo "update the repository"
-echo "my name is pratiksha "
-echo "i learning aws"
+
